@@ -1,6 +1,6 @@
 ## Junior Developer 👩🏽‍💻
 ### Hello, my name is Evelyn Helena 👩🏽‍
-I am graduated in systems analysis and development, currently working as a junior developer and I am specializing in systems development.
+I am graduated in systems analysis and development, i am currently working as a junior developer and I am specializing in systems development.
 
 ### My skills
 *   HTML5
