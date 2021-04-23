@@ -18,7 +18,7 @@ I am graduated in systems analysis and development, i am currently working as a 
 ### Social networks :earth_americas:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evelynhelena)](https://github.com/evelynhelena)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/evelyn-helena)](http://www.linkedin.com/in/evelyn-helena)
-[![instagram Badge](https://img.shields.io/badge/-Instagram-%833AB4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/evelynhelena13)](https://www.instagram.com/evelynhelena13)
+
 
 
 ![meu gif](https://media.giphy.com/media/TjRcLDHDgLOWiI0L1V/giphy.gif)
