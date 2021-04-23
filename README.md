@@ -1,6 +1,6 @@
 ## Junior Developer 👩🏽‍💻
 ### Hello, my name is Evelyn Helena 👩🏽‍
-I am graduated in systems analysis and development, i am currently working as a junior developer and I am specializing in systems development.
+I am gratuated in system analysis and development and currently I am working as a junior developer. I am also studying for a specialization in Full-Stack Development.
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelynhelena&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynhelena&layout=compact&langs_count=16&theme=bear"/>
