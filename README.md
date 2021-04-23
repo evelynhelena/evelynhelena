@@ -3,6 +3,7 @@
 I am graduated in systems analysis and development, i am currently working as a junior developer and I am specializing in systems development.
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelynhelena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynhelena&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ### My skills
