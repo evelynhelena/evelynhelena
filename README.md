@@ -7,11 +7,13 @@ I am graduated in systems analysis and development, i am currently working as a 
 </div>
 
 ### My skills
-*   HTML5
-*   CSS3
-*   JavaScript
-*   PHP
-*   MySQL
+
+<div style="display: inline_block">
+  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  <img align="center" alt="php" height="30" width="40" src=" https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+</div>
 
 ### Social networks :earth_americas:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evelynhelena)](https://github.com/evelynhelena)
