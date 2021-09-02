@@ -15,13 +15,15 @@ I am gratuated in system analysis and development and currently I am working as 
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="right" height="150" width="150"  alt="evelyn-gif" src="https://user-images.githubusercontent.com/57670030/131881634-de03cf1f-8586-45f1-bbda-86eab33afbb6.gif">
 </div>
 
-### Social networks :earth_americas:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evelynhelena)](https://github.com/evelynhelena)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/evelyn-helena)](http://www.linkedin.com/in/evelyn-helena)
-[![instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/evelynhelena13)](https://www.instagram.com/evelynhelena13)
+ ##
+<div> 
+  <a href="https://www.instagram.com/evelynhelena13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:evelynhelena781@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/evelyn-helena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
-![meu gif](https://media.giphy.com/media/TjRcLDHDgLOWiI0L1V/giphy.gif)
 
