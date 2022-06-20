@@ -1,4 +1,4 @@
-## Junior Developer 👩🏽‍💻
+## Mid-level front-end engineer 👩🏽‍💻
 ### Hello, my name is Evelyn Helena 👩🏽‍
 I am gratuated in system analysis and development and currently I am working as a junior developer. I am also studying for a specialization in Full-Stack Development.
 <div>
