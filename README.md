@@ -1,6 +1,6 @@
 ## Mid-level front-end engineer 👩🏽‍💻
-### Hello, my name is Evelyn Helena 👩🏽‍
-Olá, Me chamo Evelyn Helena e sou formada em Análise e desenvolvimento de sistemas pela faculdade impacta e Desenvolvimento de sistemas pela Etec de Embu Das Artes, Atualmente trabalho como programadora front-end plena para a Stefanini Group.
+### Olá, Me chamo Evelyn Helena 👩🏽‍
+Sou formada em Análise e desenvolvimento de sistemas pela faculdade impacta e Desenvolvimento de sistemas pela Etec de Embu Das Artes, Atualmente trabalho como programadora front-end plena para a Stefanini Group.
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelynhelena&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynhelena&layout=compact&langs_count=16&theme=bear"/>
