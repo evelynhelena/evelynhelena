@@ -1,4 +1,4 @@
-## Programadora Front-End Plena 👩🏽‍💻
+## Programadora Front-End Pleno 👩🏽‍💻
 ### Olá, Me chamo Evelyn Helena 👩🏽‍
 
 Sou Formada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia e em Desenvolvimento de Sistemas pela ETEC de Embu, tenho cinco anos de experiência como programadora front-end. Minhas competências técnicas incluem React.js, React Native, Next.js, Node.js, SASS, TypeScript e Git.
