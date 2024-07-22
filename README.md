@@ -1,6 +1,11 @@
 ## Programadora Front-End Plena 👩🏽‍💻
 ### Olá, Me chamo Evelyn Helena 👩🏽‍
-Sou formada em Análise e desenvolvimento de sistemas pela faculdade impacta e Desenvolvimento de sistemas pela Etec de Embu Das Artes, Atualmente trabalho como programadora front-end plena para a Stefanini Group.
+
+Sou Formada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia e em Desenvolvimento de Sistemas pela ETEC de Embu, tenho cinco anos de experiência como programadora front-end. Minhas competências técnicas incluem React.js, React Native, Next.js, Node.js, SASS, TypeScript e Git.
+
+Minha carreira é marcada por uma paixão contínua pela educação e pela inovação tecnológica. Já atuei como professora de programação front-end no Senac, onde pude compartilhar meu conhecimento e inspirar novos desenvolvedores. Também tive a honra de palestrar na Campus Party, um dos maiores eventos de tecnologia do mundo, além de atuar como jurada especialista nos trabalhos de conclusão de curso da ETEC.
+
+Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir com projetos inovadores. Conecte-se comigo para discutir tendências em desenvolvimento front-end, novas tecnologias ou oportunidades de colaboração.
 <div>
 
 ### My skills
